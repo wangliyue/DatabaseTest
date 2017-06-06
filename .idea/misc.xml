@@ -34,24 +34,6 @@
           <State>
             <id />
           </State>
-          <State>
-            <id>Abstraction issuesJava</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
